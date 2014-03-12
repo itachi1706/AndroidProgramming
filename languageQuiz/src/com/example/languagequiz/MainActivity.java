@@ -51,7 +51,6 @@ String c;
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-<<<<<<< HEAD
 	
 	@Override
 	public void onActivityResult(int requestCode, int resultCode, Intent myintent){
@@ -61,7 +60,5 @@ String c;
 			a.setText("pointsss : " + points);
 		}
 	}
-=======
->>>>>>> origin/master
 
 }
